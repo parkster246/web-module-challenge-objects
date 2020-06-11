@@ -1,4 +1,4 @@
-///////////////Menu Items (MVP)///////////////////
+///////////////Menu Items (MVP)/////////////////// 
 
 const latte = {name: "Cafe Latte", price: 4, category: "Drinks"};
 const burger = {name: "Burger", price: 18, category: "Lunch"};
